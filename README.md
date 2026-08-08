@@ -1,264 +1,332 @@
+<!-- ========================================================= -->
+
+<!--                 SIVABHARATHI GITHUB README                -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Sivabharathi K
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:161B22&height=220&section=header&text=SIVABHARATHI%20K&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%7C%20AI%20%7C%20FULL%20STACK&descAlignY=60&descSize=18" />
 
-### 💻 Software Developer | Java • Spring Boot • AI • Full-Stack Development
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2F81F7&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Graduate;Java+%7C+Spring+Boot+Developer;AI+%26+Computer+Vision+Enthusiast;Full-Stack+Web+Developer;Building+Real-World+Software+Solutions" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+GitHub;💻+Software+Developer;☕+Java+%7C+Spring+Boot;🤖+AI+%26+Computer+Vision;🌐+Full-Stack+Developer;🚀+Building+Real-World+Solutions;🔥+Always+Learning+%26+Building" />
 
 <br>
 
-<a href="https://sivabharathik38-cell.github.io/portfolio/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2F81F7?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sivabharathathi-k-180a152a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sivabharathik38-cell&label=Profile%20Views&color=2F81F7&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=sivabharathik38-cell&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Computer Science Engineering graduate** passionate about building
-practical software solutions using **Java, Spring Boot, Python, AI, and
-modern web technologies**.
-
-I enjoy working on projects that combine **software development, artificial
-intelligence, databases, and real-world problem solving**.
-
-* 💻 Focused on **Java & Backend Development**
-* ☕ Learning and building with **Spring Boot**
-* 🤖 Interested in **AI, Computer Vision & Machine Learning**
-* 🌐 Building **Full-Stack Web Applications**
-* 🗄️ Working with **MySQL, MongoDB & Firebase**
-* 🧠 Strengthening **Data Structures & Algorithms**
-* 🚀 Open to **Software Developer opportunities**
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-</p>
-
-### Backend & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,django,nodejs" />
-</p>
-
-### Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Smart Attendance System
-
-**Java • Spring Boot • Python • Face Recognition • MySQL • Firebase**
-
-AI-powered attendance and student management system using face
-recognition for automated attendance tracking.
-
-**Highlights**
-
-* Face recognition
-* Automated attendance
-* Student management
-* Staff dashboard
-* REST APIs
-* MySQL database
-
-</td>
-
-<td width="50%">
-
-### 🌱 BioBottle
-
-**IoT • Firebase • Node.js • QR • Gamification**
-
-Smart biodegradable bottle concept designed to encourage sustainable
-behaviour through recycling rewards and digital monitoring.
-
-**Highlights**
-
-* Seed-embedded bottle
-* QR interaction
-* Eco-points
-* Recycling tracking
-* Sustainability monitoring
-
-🏆 **INAE Innovative Student Projects Award – 2026 Nomination**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚗 Revora Car Showroom
-
-**HTML • CSS • JavaScript**
-
-Modern responsive car showroom website with interactive tools.
-
-**Highlights**
-
-* Car showcase
-* Car comparison
-* EMI calculator
-* Responsive UI
-* Interactive components
-
-</td>
-
-<td width="50%">
-
-### 🎨 Air Canvas
-
-**Python • Computer Vision**
-
-Gesture-controlled digital drawing application using computer vision.
-
-**Highlights**
-
-* Hand gesture detection
-* Real-time drawing
-* Virtual canvas
-* Camera interaction
-
-</td>
-</tr>
-</table>
-
----
-
-# 🏆 Achievements
-
-| Achievement            | Recognition                                         |
-| ---------------------- | --------------------------------------------------- |
-| 🥈 Nexus Jam Hackathon | Runner-Up – AI Smart Attendance System              |
-| 🥇 CUEX                | 1st Prize – Prompt Engineering                      |
-| 🎓 Infosys Springboard | Selected – Pragati Cohort 9                         |
-| 🏆 INAE                | Innovative Student Projects Award – 2026 Nomination |
-
----
-
-# 📜 Certifications
-
-* **TCS iON** – Career Edge
-* **IBM** – Chatbot Certification
-* **Google** – Google Analytics
-* **AWS** – AWS Foundations
-* **Tata** – GenAI Data Analytics
-* **Infosys Springboard** – Pragati
-
----
-
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivabharathik38-cell&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivabharathik38-cell&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sivabharathik38-cell&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 Currently Learning
-
-<div align="center">
+# 🖤 `whoami`
 
 ```text
-Java & Spring Boot
-        ↓
-REST API Development
-        ↓
-Database & SQL
-        ↓
-Data Structures & Algorithms
-        ↓
-AI & Computer Vision
-        ↓
-Full-Stack Development
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   > Initializing developer profile...                ║
+║   > Loading skills...                                ║
+║   > Loading projects...                               ║
+║   > Loading innovation...                             ║
+║                                                      ║
+║   ✓ Java Developer                                   ║
+║   ✓ Spring Boot Developer                            ║
+║   ✓ AI & Computer Vision Enthusiast                  ║
+║   ✓ Full-Stack Developer                             ║
+║   ✓ Problem Solver                                   ║
+║                                                      ║
+║   STATUS: READY TO BUILD 🚀                          ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-# 🏅 Highlights
+# ⚡ `ABOUT_ME`
+
+```java
+public class Sivabharathi {
+
+    String role = "Software Developer";
+    
+    String[] interests = {
+        "Java",
+        "Spring Boot",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Full-Stack Development",
+        "Problem Solving"
+    };
+
+    String[] goals = {
+        "Build scalable applications",
+        "Learn emerging technologies",
+        "Solve real-world problems",
+        "Grow as a software engineer"
+    };
+
+    boolean openToOpportunities = true;
+}
+```
+
+---
+
+# 🧠 `TECH_STACK`
 
 <div align="center">
 
-💻 **Software Development**
+### 💻 Languages
 
-  •  
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" />
 
-☕ **Java & Spring Boot**
+<br><br>
 
-  •  
+### ⚙️ Backend & Frameworks
 
-🤖 **AI & Computer Vision**
+<img src="https://skillicons.dev/icons?i=spring,django,nodejs&theme=dark" />
 
-  •  
+<br><br>
 
-🌐 **Full-Stack Development**
+### 🗄️ Database & Cloud
 
-  •  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
 
-🚀 **Hackathons & Innovation**
+<br><br>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven&theme=dark" />
 
 </div>
 
 ---
 
-# 📫 Let's Connect
+# 🚀 `FEATURED_PROJECTS`
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h2>🤖 Smart Attendance</h2>
+
+<b>Java • Spring Boot • Python • AI • MySQL • Firebase</b>
+
+<br><br>
+
+AI-powered attendance and student management system using
+face recognition.
+
+<br><br>
+
+🔹 Face Recognition
+🔹 Automated Attendance
+🔹 Student Management
+🔹 Staff Dashboard
+🔹 REST APIs
+🔹 MySQL Database
+
+</td>
+
+<td width="50%">
+
+<h2>🌱 BioBottle</h2>
+
+<b>IoT • Firebase • Node.js • QR • Gamification</b>
+
+<br><br>
+
+Smart biodegradable bottle concept designed to encourage
+sustainable behaviour.
+
+<br><br>
+
+🌱 Seed Embedded
+♻️ Recycling Tracking
+📱 QR Interaction
+🏆 Eco Points
+📊 Sustainability Monitoring
+
+<br>
+
+🏆 <b>INAE Award 2026 Nomination</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h2>🚗 Revora</h2>
+
+<b>HTML • CSS • JavaScript</b>
+
+<br><br>
+
+Modern interactive car showroom website.
+
+<br><br>
+
+🚘 Car Showcase
+🔍 Car Comparison
+💰 EMI Calculator
+📱 Responsive UI
+⚡ Interactive Components
+
+</td>
+
+<td width="50%">
+
+<h2>🎨 Air Canvas</h2>
+
+<b>Python • Computer Vision</b>
+
+<br><br>
+
+Gesture-controlled digital drawing application.
+
+<br><br>
+
+✋ Hand Detection
+🎨 Real-Time Drawing
+📷 Camera Interaction
+🖌️ Virtual Canvas
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🏆 `ACHIEVEMENTS`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🥈%20Nexus%20Jam-Runner--Up-161B22?style=for-the-badge&labelColor=000000&color=58A6FF" />
+
+<img src="https://img.shields.io/badge/🥇%20CUEX-1st%20Prize-161B22?style=for-the-badge&labelColor=000000&color=A371F7" />
+
+<img src="https://img.shields.io/badge/🎓%20Infosys%20Pragati-Selected-161B22?style=for-the-badge&labelColor=000000&color=58A6FF" />
+
+<img src="https://img.shields.io/badge/🏆%20INAE%202026-Nominated-161B22?style=for-the-badge&labelColor=000000&color=A371F7" />
+
+</div>
+
+---
+
+# 📜 `CERTIFICATIONS`
+
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│  🎓 TCS iON Career Edge                      │
+│  🤖 IBM Chatbot                              │
+│  📊 Google Analytics                         │
+│  ☁️ AWS Foundations                          │
+│  🤖 Tata GenAI Data Analytics                │
+│  🎓 Infosys Springboard Pragati              │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
+---
+
+# 📊 `GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sivabharathik38-cell&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivabharathik38-cell&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180"/>
+
+</div>
+
+---
+
+# 🔥 `CONTRIBUTION_STREAK`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sivabharathik38-cell&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=A371F7&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+# 🐍 `CONTRIBUTION_ACTIVITY`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sivabharathik38-cell/sivabharathik38-cell/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# ⚙️ `CURRENTLY_BUILDING`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A371F7&center=true&vCenter=true&width=650&lines=Building+Java+Applications...;Learning+Spring+Boot...;Practicing+Data+Structures...;Exploring+Artificial+Intelligence...;Improving+Full-Stack+Skills...;Building+Something+New...+🚀" />
+
+</div>
+
+---
+
+# 🧩 `DEVELOPER_STATS`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       CODE        →        CREATE            ║
+║         ↓                    ↓               ║
+║       LEARN       →        BUILD             ║
+║         ↓                    ↓               ║
+║       DEBUG       →        IMPROVE           ║
+║         ↓                    ↓               ║
+║       REPEAT      →        🚀                ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🌐 `CONNECT_WITH_ME`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sivabharathathi-k-180a152a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Sivabharathi%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+
 </a>
 
 <a href="https://sivabharathik38-cell.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Sivabharathi%20K-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=google-chrome&logoColor=A371F7" />
+
+</a>
+
+<a href="https://github.com/sivabharathik38-cell">
+
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+
 </a>
 
 </div>
@@ -267,8 +335,10 @@ Full-Stack Development
 
 <div align="center">
 
-### 🚀 Building today. Learning every day. Growing continuously.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing!;Keep+Learning.+Keep+Building.+🚀" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:161B22&height=130&section=footer&animation=fadeIn" />
 
 </div>

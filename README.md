@@ -2,13 +2,23 @@
 
 # 👋 Hi, I'm Sivabharathi K
 
-### 💻 Software Developer | Java | Spring Boot | AI | Web Development
+### 💻 Software Developer | Java • Spring Boot • AI • Full-Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Java+%7C+Spring+Boot+Developer;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Building+Practical+%26+Innovative+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=2F81F7&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Graduate;Java+%7C+Spring+Boot+Developer;AI+%26+Computer+Vision+Enthusiast;Full-Stack+Web+Developer;Building+Real-World+Software+Solutions" alt="Typing Animation" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sivabharathik38-cell&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="https://sivabharathik38-cell.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2F81F7?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sivabharathathi-k-180a152a5/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sivabharathik38-cell&label=Profile%20Views&color=2F81F7&style=flat-square" />
 
 </div>
 
@@ -16,37 +26,44 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Engineering Graduate
-💻 Passionate about Software Development
-☕ Interested in Java and Spring Boot
-🤖 Exploring AI, Machine Learning and Computer Vision
-🌐 Interested in Full-Stack Web Development
-🚀 Building practical solutions for real-world problems
-📚 Continuously learning and improving my technical skills
+I'm a **Computer Science Engineering graduate** passionate about building
+practical software solutions using **Java, Spring Boot, Python, AI, and
+modern web technologies**.
+
+I enjoy working on projects that combine **software development, artificial
+intelligence, databases, and real-world problem solving**.
+
+* 💻 Focused on **Java & Backend Development**
+* ☕ Learning and building with **Spring Boot**
+* 🤖 Interested in **AI, Computer Vision & Machine Learning**
+* 🌐 Building **Full-Stack Web Applications**
+* 🗄️ Working with **MySQL, MongoDB & Firebase**
+* 🧠 Strengthening **Data Structures & Algorithms**
+* 🚀 Open to **Software Developer opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### Backend & Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,django,nodejs" />
 </p>
 
-### 🗄️ Database & Cloud
+### Database & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-### 🔧 Tools
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven" />
@@ -56,115 +73,119 @@
 
 # 🚀 Featured Projects
 
-## 🤖 Smart Attendance & Student Management System
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Smart Attendance System
 
 **Java • Spring Boot • Python • Face Recognition • MySQL • Firebase**
 
-A smart attendance management system that combines backend development
-with AI-based face recognition.
+AI-powered attendance and student management system using face
+recognition for automated attendance tracking.
 
-### Key Features
+**Highlights**
 
-* 👤 Face-based student identification
-* 📸 Real-time face recognition
-* 📝 Automated attendance management
-* 👨‍🏫 Staff dashboard
-* 👨‍🎓 Student dashboard
-* 🔐 User authentication
-* 🗄️ MySQL database
-* 🔥 Firebase integration
+* Face recognition
+* Automated attendance
+* Student management
+* Staff dashboard
+* REST APIs
+* MySQL database
 
----
+</td>
 
-## 🌱 BioBottle – Smart Eco Bottle
+<td width="50%">
 
-**IoT • Firebase • Node.js • QR Code • Gamification**
+### 🌱 BioBottle
 
-An innovative biodegradable bottle concept designed to encourage
-sustainable behaviour through digital rewards and recycling tracking.
+**IoT • Firebase • Node.js • QR • Gamification**
 
-### Key Features
+Smart biodegradable bottle concept designed to encourage sustainable
+behaviour through recycling rewards and digital monitoring.
 
-* 🌱 Biodegradable bottle
-* 🌾 Seed-embedded design
-* 📱 QR-code interaction
-* ♻️ Recycling tracking
-* 🏆 Eco-points and gamification
-* 🔥 Firebase integration
-* 📊 Sustainability monitoring
+**Highlights**
 
-### 🏆 Recognition
+* Seed-embedded bottle
+* QR interaction
+* Eco-points
+* Recycling tracking
+* Sustainability monitoring
 
-**INAE Innovative Student Projects Award – 2026 Nomination**
+🏆 **INAE Innovative Student Projects Award – 2026 Nomination**
 
----
+</td>
+</tr>
 
-## 🚗 Revora Car Showroom
+<tr>
+<td width="50%">
+
+### 🚗 Revora Car Showroom
 
 **HTML • CSS • JavaScript**
 
-A modern and responsive car showroom website with interactive features.
+Modern responsive car showroom website with interactive tools.
 
-### Key Features
+**Highlights**
 
-* 🚘 Car showcase
-* 🔍 Car comparison
-* 💰 EMI calculator
-* 📱 Responsive design
-* 🎨 Modern user interface
-* ⚡ Interactive JavaScript components
+* Car showcase
+* Car comparison
+* EMI calculator
+* Responsive UI
+* Interactive components
 
----
+</td>
 
-## 🎨 Air Canvas
+<td width="50%">
 
-**Python • Computer Vision • Gesture Recognition**
+### 🎨 Air Canvas
 
-A computer-vision-based application that allows users to draw digitally
-using hand gestures.
+**Python • Computer Vision**
 
-### Features
+Gesture-controlled digital drawing application using computer vision.
 
-* ✋ Hand gesture detection
-* 🎨 Real-time drawing
-* 🖌️ Virtual canvas
-* 📷 Camera-based interaction
+**Highlights**
+
+* Hand gesture detection
+* Real-time drawing
+* Virtual canvas
+* Camera interaction
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🏆 Achievements
 
-🥈 **Runner-Up – Nexus Jam Hackathon**
-AI-based Smart Attendance System using Face Detection
-
-🥇 **1st Prize – CUEX**
-Prompt Engineering
-
-🎓 **Selected – Infosys Springboard Pragati Cohort 9**
-
-🏆 **INAE Innovative Student Projects Award – 2026 Nomination**
-BioBottle Project
+| Achievement            | Recognition                                         |
+| ---------------------- | --------------------------------------------------- |
+| 🥈 Nexus Jam Hackathon | Runner-Up – AI Smart Attendance System              |
+| 🥇 CUEX                | 1st Prize – Prompt Engineering                      |
+| 🎓 Infosys Springboard | Selected – Pragati Cohort 9                         |
+| 🏆 INAE                | Innovative Student Projects Award – 2026 Nomination |
 
 ---
 
 # 📜 Certifications
 
-* 🎓 TCS iON Career Edge
-* 🤖 IBM Chatbot Certification
-* 📊 Google Analytics
-* ☁️ AWS Foundations
-* 🤖 Tata GenAI Data Analytics
-* 🎓 Infosys Springboard Pragati
+* **TCS iON** – Career Edge
+* **IBM** – Chatbot Certification
+* **Google** – Google Analytics
+* **AWS** – AWS Foundations
+* **Tata** – GenAI Data Analytics
+* **Infosys Springboard** – Pragati
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sivabharathik38-cell&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sivabharathik38-cell&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivabharathik38-cell&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivabharathik38-cell&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 
 </div>
 
@@ -180,52 +201,64 @@ BioBottle Project
 
 ---
 
-# 🐍 Contribution Activity
+# 🎯 Currently Learning
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sivabharathik38-cell/sivabharathik38-cell/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+```text
+Java & Spring Boot
+        ↓
+REST API Development
+        ↓
+Database & SQL
+        ↓
+Data Structures & Algorithms
+        ↓
+AI & Computer Vision
+        ↓
+Full-Stack Development
+```
 
 </div>
 
 ---
 
-# 🎯 Current Focus
-
-```text
-☕ Improving Java & Spring Boot
-🧠 Strengthening Data Structures & Algorithms
-🤖 Exploring AI & Computer Vision
-🌐 Building Full-Stack Applications
-🗄️ Improving Database & SQL Skills
-🚀 Preparing for Software Developer Opportunities
-```
-
----
-
-# 💡 What I Like Building
-
-```text
-🤖 AI-powered applications
-🌐 Web applications
-☕ Java backend systems
-📊 Database-driven applications
-🌱 Sustainability-focused technology
-💡 Innovative software solutions
-```
-
----
-
-# 🤝 Let's Connect
+# 🏅 Highlights
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sivabharathathi-k-180a152a5">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+💻 **Software Development**
+
+  •  
+
+☕ **Java & Spring Boot**
+
+  •  
+
+🤖 **AI & Computer Vision**
+
+  •  
+
+🌐 **Full-Stack Development**
+
+  •  
+
+🚀 **Hackathons & Innovation**
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sivabharathathi-k-180a152a5/">
+<img src="https://img.shields.io/badge/LinkedIn-Sivabharathi%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://sivabharathik38-cell.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
+<img src="https://img.shields.io/badge/Portfolio-Sivabharathi%20K-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
@@ -234,8 +267,8 @@ BioBottle Project
 
 <div align="center">
 
-### 💻 Code. Learn. Build. Repeat. 🚀
+### 🚀 Building today. Learning every day. Growing continuously.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
 
 </div>
